@@ -12,7 +12,7 @@
 
 **A powerful, modern web application for discovering and analyzing Facebook advertising target audiences with precision and ease.**
 
-[🚀 Live Demo](https://your-username.github.io/facebook-ads-target-audience-finder) • [📖 Documentation](#documentation) • [🤝 Contributing](#contributing) • [🐛 Report Bug](https://github.com/your-username/facebook-ads-target-audience-finder/issues)
+[🚀 Live Demo](https://rascal-sl.github.io/Facebook-Ads-Target-Audience-Finder) • [📖 Documentation](#documentation) • [🤝 Contributing](#contributing) • [🐛 Report Bug](https://github.com/rascal-sl/Facebook-Ads-Target-Audience-Finder/issues)
 
 </div>
 
@@ -57,8 +57,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/facebook-ads-target-audience-finder.git
-   cd facebook-ads-target-audience-finder
+   git clone https://github.com/rascal-sl/Facebook-Ads-Target-Audience-Finder.git
+   cd Facebook-Ads-Target-Audience-Finder
    ```
 
 2. **Install dependencies**
@@ -236,6 +236,35 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tisankan)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/tisankan)
 
+---
+
+## 🤝 Welcome Contributors!
+
+We warmly welcome contributions from developers around the world! Whether you're fixing bugs, adding features, improving documentation, or suggesting enhancements, your contributions make this project better for everyone.
+
+### 🚀 How to Contribute
+
+1. **Fork** the repository
+2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
+3. **Commit** your changes (`git commit -m 'Add some amazing feature'`)
+4. **Push** to the branch (`git push origin feature/amazing-feature`)
+5. **Open** a Pull Request
+
+### 🎯 What We're Looking For
+
+- 🐛 Bug fixes and improvements
+- ✨ New features and enhancements
+- 📚 Documentation improvements
+- 🎨 UI/UX enhancements
+- 🧪 Test coverage improvements
+- 🌐 Internationalization support
+
+### 💡 Get Started
+
+Check out our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) to get started. Don't hesitate to reach out if you have questions!
+
+**Join our community of contributors and help make Facebook advertising more accessible to everyone! 🌟**
+
 **Chief Technology Officer at Yarl Ventures (PVT) Ltd**
 
 *Full-stack development, reliable cloud, and data-driven marketing—built to ship fast, scale safely, and grow.*
@@ -259,9 +288,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with the project:
 
-- 📧 **Email**: [contact@tisankan.dev](mailto:contact@tisankan.dev)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/facebook-ads-target-audience-finder/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/facebook-ads-target-audience-finder/discussions)
+- 📧 **Email**: [hello@tisankan.dev](mailto:hello@tisankan.dev)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/rascal-sl/Facebook-Ads-Target-Audience-Finder/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/rascal-sl/Facebook-Ads-Target-Audience-Finder/discussions)
 
 ---
 

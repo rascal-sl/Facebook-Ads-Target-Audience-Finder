@@ -7,16 +7,17 @@
   "keywords": ["facebook-ads", "audience-targeting", "marketing", "demographics", "react", "typescript"],
   "author": {
     "name": "Tisankan",
+    "email": "hello@tisankan.dev",
     "url": "https://tisankan.dev"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tisankan/facebook-ads-audience-finder.git"
+    "url": "https://github.com/rascal-sl/Facebook-Ads-Target-Audience-Finder.git"
   },
-  "homepage": "https://tisankan.github.io/facebook-ads-audience-finder",
+  "homepage": "https://rascal-sl.github.io/Facebook-Ads-Target-Audience-Finder",
   "bugs": {
-    "url": "https://github.com/tisankan/facebook-ads-audience-finder/issues"
+    "url": "https://github.com/rascal-sl/Facebook-Ads-Target-Audience-Finder/issues"
   },
   "scripts": {
     "dev": "vite",

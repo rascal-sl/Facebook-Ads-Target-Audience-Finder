@@ -62,8 +62,8 @@ Enhancement suggestions are welcome! Please provide:
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/facebook-ads-audience-finder.git
-cd facebook-ads-audience-finder
+git clone https://github.com/YOUR_USERNAME/Facebook-Ads-Target-Audience-Finder.git
+cd Facebook-Ads-Target-Audience-Finder
 
 # Install dependencies
 npm install
@@ -162,7 +162,7 @@ Use GitHub Issues to report bugs or request features. Please use the appropriate
 
 ### Security Issues
 
-For security-related issues, please email [hello@](mailto:tisankan@example.com) directly instead of creating a public issue.
+For security-related issues, please email [hello@tisankan.dev](mailto:hello@tisankan.dev) directly instead of creating a public issue.
 
 ## Recognition
 
